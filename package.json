@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "debug": "^2.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustinkassis/simple-supp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agustinkassis/simple-supp/issues"
+  },
+  "homepage": "https://github.com/agustinkassis/simple-supp#readme"
 }
